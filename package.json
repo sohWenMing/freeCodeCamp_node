@@ -1,7 +1,8 @@
 {	"author": "Soh Wen Ming",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.1.0" 
 	},
 	"description": "The beginning of something amazing",
 	"keywords": ["freecodecamp", "all", "over", "again"],
