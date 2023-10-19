@@ -3,6 +3,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"description": "The beginning of something amazing",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
