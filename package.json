@@ -5,6 +5,7 @@
 	},
 	"description": "The beginning of something amazing",
 	"keywords": ["freecodecamp", "all", "over", "again"],
+	"license": "freeToUse",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
