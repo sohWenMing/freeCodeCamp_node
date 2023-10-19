@@ -4,7 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"description": "The beginning of something amazing",
-	"keywords": ["beginning", "all", "over", "again"],
+	"keywords": ["freecodecamp", "all", "over", "again"],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
